@@ -1,7 +1,5 @@
 import io
 import streamlit as st
-import vertexai
-from vertexai.language_models import ChatModel, InputOutputTextPair
 
 
 
